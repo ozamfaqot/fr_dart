@@ -43,4 +43,8 @@ abstract class Animal{
   set weight(double value) {
     _weight = value;
   }
+
+  set weight2(double value) {
+    _weight = value;
+  }
 }
