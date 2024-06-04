@@ -1,0 +1,3 @@
+class Flyabe {
+  void flyable(){}
+}
